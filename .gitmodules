@@ -1,0 +1,9 @@
+[submodule "repos/Mindustry"]
+	path = repos/Mindustry
+	url = https://github.com/Anuken/Mindustry.git
+[submodule "repos/Arc"]
+	path = repos/Arc
+	url = https://github.com/Anuken/Arc
+[submodule "repos/rhino"]
+	path = repos/rhino
+	url = https://github.com/Anuken/rhino.git
